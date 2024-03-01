@@ -3,7 +3,7 @@ public class Sample {
     // sample function added
     public static void sampleFunction(){
         System.out.println(
-            "Iam Sample Function"
+            "Iam Sample Function I provide:"
         );
         sampleFunction2();
     }
